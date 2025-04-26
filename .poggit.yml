@@ -5,5 +5,5 @@ branches:
 projects:
   TridentPM:
     path: ""
-    icon: "trident.jpg"
+    icon: "trident.png"
 ...
