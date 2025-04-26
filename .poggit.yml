@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Jasson44/TridentPM
+build-by-default: true
+branches:
+- main
+projects:
+  TridentPM:
+    path: ""
+    icon: "trident.jpg"
+...
