@@ -1,0 +1,6 @@
+name: TridentPM
+version: 1.0.0
+main: xeonch\trident\Main
+api: 5.0.0
+src-namespace-prefix: xeonch\trident
+author: XeonCh
